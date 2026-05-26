@@ -8,7 +8,7 @@ on:
 
 env:
   BUILD_TYPE: Release
-  PICO_SDK_VERSION: "1.5.1"
+  PICO_SDK_VERSION: "2.2.0"
 
 jobs:
   build:
