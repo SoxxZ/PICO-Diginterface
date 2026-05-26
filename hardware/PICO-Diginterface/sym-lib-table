@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PICO-Digin-easyedapro") (type "KiCad") (uri "${KIPRJMOD}/PICO-Digin-easyedapro.kicad_sym") (options "") (descr ""))
+)
