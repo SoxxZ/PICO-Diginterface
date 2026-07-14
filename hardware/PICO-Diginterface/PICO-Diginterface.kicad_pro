@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.8,
           "height": 1.27,
-          "width": 2.54
+          "width": 1.27
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -605,7 +605,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Referência"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -645,7 +645,7 @@
       {
         "filename": "PICO-Diginterface.kicad_sch",
         "name": "Schematic1",
-        "uuid": "36a86186-f3ef-4d4d-b6af-4c6469c21836"
+        "uuid": "b256beb6-a0d2-43bb-adac-0b45b6ec76c3"
       }
     ],
     "used_designators": "",
@@ -653,7 +653,7 @@
   },
   "sheets": [
     [
-      "36a86186-f3ef-4d4d-b6af-4c6469c21836",
+      "b256beb6-a0d2-43bb-adac-0b45b6ec76c3",
       "Schematic1"
     ]
   ],
