@@ -17,7 +17,7 @@ The PCB implements full galvanic isolation between the host interface and the ra
 | 4    | UART1 TX       | Output       | Inverted, 4800 baud                                  |
 | 5    | UART1 RX       | Input        | Inverted, pull-up enabled                            |
 | 12   | PTT Status LED | Output       | Active high; asserted when any PTT channel is active |
-| 18   | PDM Data Out   | Output (PIO) | PDM bitstream at 1.536 MHz                           |
+| 17   | PDM Data Out   | Output (PIO) | PDM bitstream at 1.536 MHz                           |
 | 22   | PTT Channel 1  | Output       | Active high                                          |
 | 24   | PTT Channel 2  | Output       | Active high                                          |
 | 25   | Board LED      | Output       | Blinks USB status                                    |

@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-#define PDM_OUTPUT_GPIO 18
+#define PDM_OUTPUT_GPIO 17
 
 int audio_pdm_output_init(uint32_t sample_rate);
 void audio_pdm_output_set_sample_rate(uint32_t sample_rate);
